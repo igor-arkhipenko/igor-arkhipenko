@@ -32,7 +32,7 @@ Senior React Developer · Indie Hacker · Self-Growth Enthusiast
 ### 📬 Связь:
 - 📫 Email: igorarkhipenko@yandex.ru  
 - 💬 Telegram: [@igorArkhipenko](https://t.me/igorArkhipenko)  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/igorarkhipenko)
+- 💼 LinkedIn: [linkedin.com/in/igorarkhipenko](https://linkedin.com/in/igorarkhipenko)
 
 ---
 
