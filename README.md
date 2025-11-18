@@ -17,7 +17,7 @@ Senior React Developer · Indie Hacker · Self-Growth Enthusiast
 
 ### 🧠 Сейчас изучаю:
 - Архитектуру фронтенда
-- NestJS
+- Python
 - LeetCode и Codewars для алгоритмов
 
 ---
