@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Igor 👋</h1>
 
 <p align="center">
-Senior React Developer · Indie Hacker · Self-Growth Enthusiast
+Senior Web Developer · Indie Hacker · Self-Growth Enthusiast
 </p>
 
 ---
