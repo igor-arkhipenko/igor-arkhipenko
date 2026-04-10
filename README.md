@@ -17,7 +17,7 @@ Senior Web Developer · Indie Hacker · Self-Growth Enthusiast
 
 ### 🧠 Сейчас изучаю:
 - Python
-- LeetCode и Codewars для алгоритмов
+- LeetCode и Codewars
 
 ---
 
@@ -32,11 +32,6 @@ Senior Web Developer · Indie Hacker · Self-Growth Enthusiast
 - 📫 Email: igorarkhipenko@yandex.ru  
 - 💬 Telegram: [@igorArkhipenko](https://t.me/igorArkhipenko)  
 - 💼 LinkedIn: [linkedin.com/in/igorarkhipenko](https://linkedin.com/in/igorarkhipenko)
-
----
-
-### 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igor-arkhipenko&show_icons=true&theme=tokyonight)
 
 ---
 
